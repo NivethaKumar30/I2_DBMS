@@ -60,3 +60,7 @@ OUTPUT:
 
 ![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/e936ab75-c276-4d3f-8a99-166697befece)
 
+
+RESULT :
+
+Hence the student database has been created and the DDL queries are execueted using SQL .
