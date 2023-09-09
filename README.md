@@ -20,6 +20,7 @@ SQL QUERY:
 CREATE TABLE STUDENTT(rollno INT PRIMARY KEY,name1 VARCHAR(255),age INT,address VARCHAR(255),phoneno VARCHAR(15));
 
 OUTPUT:
+
 ![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/5c7837c2-a5b3-48da-9a5e-4fb90dbeda8a)
 
 
@@ -29,6 +30,7 @@ SQL QUERY:
 ALTER TABLE STUDENTT ADD dept VARCHAR(50);
 
 OUTPUT:
+
 ![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/e88de8b9-b987-425b-99b0-89b9654ce574)
 
 
@@ -37,6 +39,7 @@ SQL QUERY:
 DROP TABLE STUDENTT;
 
 OUTPUT:
+
 ![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/6179d333-8ba2-4be0-889f-b120df1ee7b3)
 
 
@@ -45,6 +48,7 @@ SQL QUERY:
 TRUNCATE TABLE STUDENTTT;
 
 OUTPUT:
+
 ![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/498396e5-204a-4cb9-87a7-45348e14440c)
 
 
@@ -52,7 +56,9 @@ Rename the student table to mystudent
 SQL QUERY:
 ALTER TABLE STUDENTT RENAME TO mystudent;
 
+
 OUTPUT:
+
 ![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/d8f9fc04-f12d-4b00-b205-d91f0063eb50)
 
 
