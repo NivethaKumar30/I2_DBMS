@@ -42,42 +42,12 @@ SQL QUERY:
 TRUNCATE TABLE STUDENTTT;
 
 OUTPUT:
-image
+
 
 Rename the student table to mystudent
 SQL QUERY:
 ALTER TABLE STUDENTT RENAME TO mystudent;
 
 OUTPUT:
-image
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 14 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
