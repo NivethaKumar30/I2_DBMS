@@ -21,13 +21,17 @@ create table student(rollno numeric(10),name char(10),age numeric(5),address var
 
 OUTPUT:
 
+![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/97eb8110-e1f3-4167-ba2e-d08c561dfe21)
+
 
 2) Change the above student table by adding another attribute department
 SQL QUERY:
 alter table student add department varchar(15);
 
 OUTPUT:
- 
+
+![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/f034e62c-3b59-43d0-bec7-a2b6695e9de7)
+
 
 3) Drop the student table
 SQL QUERY:
@@ -35,12 +39,17 @@ drop table student;
 
 OUTPUT:
 
+![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/65fb017a-72a4-45e9-83e4-f068ade39149)
+
+
 
 4) Delete the student table using truncate keyword
 SQL QUERY:
 truncate table student;
 
 OUTPUT:
+
+![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/f59a5ff3-e651-4e17-96c3-eea7d3bc5726)
                                
 
 5) Rename the student table to mystudent
@@ -49,4 +58,5 @@ rename table student to mystudent;
 
 OUTPUT:
 
+![image](https://github.com/NivethaKumar30/I2_DBMS/assets/119559844/e936ab75-c276-4d3f-8a99-166697befece)
 
